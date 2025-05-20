@@ -6,3 +6,6 @@ This repository contains the official implementation of 《Progressive Low-Confi
 
 ## 📄 Paper Status  
 • Currently under review at Neurocomputing  
+
+## ▶️ Run the Code
+To run the code: `python main.py`
